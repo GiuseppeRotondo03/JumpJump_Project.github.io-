@@ -32,19 +32,21 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #Rooms and obstacles
 
-type 1
-type 2
-type 3
-type 4
-type 5
+- type 1
+- type 2
+- type 3
+- type 4
+- type 5
 
 ## #movement
 
-Unreal Engine m
-my new movement 1
-my new movement 2
+- Unreal Engine m
+- my new movement 1
+- my new movement 2
 
 ## #debuff
 
 ## #score and quest
+
+## #The issues and how i fixed it
 
