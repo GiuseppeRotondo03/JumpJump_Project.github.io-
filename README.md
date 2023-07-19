@@ -31,8 +31,6 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - Each room may contain different obstacles from the previous room, so the player always faces new challenges
 - The player evaluates whether or not to take debuffs to obtain other advantages such as a better position to jump
 
-
-# #Gameplay design details
 ## #Rooms and obstacles
 
 - type 1
