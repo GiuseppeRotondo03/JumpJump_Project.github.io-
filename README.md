@@ -1,6 +1,6 @@
 # #Summary
 
-this project has finally tested my ability to be able to work hours in a row and to be able to publish something finished and with optimized performance thanks to intelligent programming techniques.
+this project has finally tested my ability to be able to work hours in a row and to be able to publish something finished and with optimized performance thanks to better programming techniques.
 
 ## #Project goals
 
