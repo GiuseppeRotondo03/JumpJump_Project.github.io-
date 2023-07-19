@@ -1,5 +1,5 @@
 # #Summary
-
+<hr>
 This project has finally tested my ability to be able to work hours in a row and to be able to publish something finished and with optimized performance thanks to better programming techniques.
 
 ## #Project goals
@@ -19,7 +19,7 @@ This project has finally tested my ability to be able to work hours in a row and
 
 
 # #Game design
-<br>
+<hr>
 The game is inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2. 
 I love giving the player the chance to decide and I wanted to challenge myself with new things and I hate monotony, so I realized this idea:
 
@@ -32,6 +32,8 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - Each room may contain different obstacles from the previous room, so the player always faces new challenges
 - The player evaluates whether or not to take debuffs to obtain other advantages such as a better position to jump
 
+# #Game Design Details
+<hr>
 ## #Rooms and obstacles
 *** video ***
 This Room contains a series of platforms that slowly descend one after another. The player's aim is to be able to climb and reach the top (each platform has a waiting timer that increases based on its own ID. In this way they don't all descend together but sequentially).
