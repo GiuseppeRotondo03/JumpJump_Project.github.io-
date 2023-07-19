@@ -18,10 +18,15 @@ this project has finally tested my ability to be able to work hours in a row and
 
 
 # #Game design
-
-## #More about the game
 The game is inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2. 
+I love giving the player the chance to decide and I wanted to challenge myself with new things and I hate monotony, so I realized this idea:
+
+
+
+
 ## #Unic Points
+
+-
 -
 -
 
