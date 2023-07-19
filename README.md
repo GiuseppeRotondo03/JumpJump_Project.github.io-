@@ -23,7 +23,7 @@ The game is inspired by games I played when I was younger like Minecraft Parkour
 I love giving the player the chance to decide and I wanted to challenge myself with new things and I hate monotony, so I realized this idea:
 
 ## #Game Idea
-The player finds himself on a hill (an island) surrounded by an infinite low land (an ocean) and must find a way to escape but if he touches the land, he dies. To avoid dying, he uses his gun to shoot and create obstacles for him to jump over.
+The player finds himself on a hill (an island) surrounded by an infinite low land (an ocean) and must find a way to escape but if he touches the land, he dies. To avoid dying, he uses his gun to shoot and create obstacles for him to jump over with a fast and easy to control movement.
 
 
 ## #Unic Points
