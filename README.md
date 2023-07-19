@@ -24,7 +24,7 @@ I love giving the player the chance to decide and I wanted to challenge myself w
 The player finds himself on a hill (an island) surrounded by an infinite low land (an ocean) and must find a way to escape but if he touches the land, he dies. To avoid dying, he uses his gun to shoot and create obstacles for him to jump over with a fast and easy to control movement.
 
 
-## #Unic Points
+## #Unique Points
 
 - The player decides where to go, not the game. The player creates rooms with different types of obstacles inside
 - Each room may contain different obstacles from the previous room, so the player always faces new challenges
