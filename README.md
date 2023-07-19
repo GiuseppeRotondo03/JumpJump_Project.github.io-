@@ -4,9 +4,9 @@ this project has finally tested my ability to be able to work hours in a row and
 
 ## #Project goals
 
-    - Building a PC game with simple and effective design, to test and improve my skills as designer
-    - Building a PC game with complex technical structure under the surface, to test and improve my skills as a game programmer
-    - Building a PC game as optimized as possible, putting before design, after performance and than art
+- Building a PC game with simple and effective design, to test and improve my skills as designer
+- Building a PC game with complex technical structure under the surface, to test and improve my skills as a game programmer
+- Building a PC game as optimized as possible, putting before design, after performance and than art
 
 ## #Specifications
 
@@ -15,5 +15,8 @@ this project has finally tested my ability to be able to work hours in a row and
     Developed in Unreal Egine
     Texures made in Quixel Mixer
 
-<hr>  
+
+
 # #Game design
+<hr>  
+for the initial idea I was inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2
