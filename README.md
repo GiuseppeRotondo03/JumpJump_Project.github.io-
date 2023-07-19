@@ -1,6 +1,6 @@
 # #Summary
 
-this project has finally tested my ability to be able to work hours in a row and to be able to publish something finished and with optimized performance thanks to better programming techniques.
+This project has finally tested my ability to be able to work hours in a row and to be able to publish something finished and with optimized performance thanks to better programming techniques.
 
 ## #Project goals
 
@@ -19,6 +19,7 @@ this project has finally tested my ability to be able to work hours in a row and
 
 
 # #Game design
+<br>
 The game is inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2. 
 I love giving the player the chance to decide and I wanted to challenge myself with new things and I hate monotony, so I realized this idea:
 
