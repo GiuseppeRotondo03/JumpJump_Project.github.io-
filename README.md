@@ -33,6 +33,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - The player evaluates whether or not to take debuffs to obtain other advantages such as a better position to jump
   
 <hr>
+# #Game design Details
 
 ## #Rooms and obstacles
 *** video ***
