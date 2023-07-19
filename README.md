@@ -27,9 +27,8 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #Unic Points
 
--
--
--
+-The player decides where to go, not the game. The player creates chambers with different types of obstacles inside
+-eEach chamber may contain different obstacles from the previous chamber, so the player always faces new challenges
+-The player evaluates whether or not to take debuffs to obtain other advantages such as a better position to jump
 
-The initial idea was something like: 
 
