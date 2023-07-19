@@ -44,9 +44,8 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - my new movement 1
 - my new movement 2
 
+## #The issues and how i fixed it
+
 ## #debuff
 
 ## #score and quest
-
-## #The issues and how i fixed it
-
