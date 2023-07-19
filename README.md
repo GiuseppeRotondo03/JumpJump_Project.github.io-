@@ -1,22 +1,21 @@
 # #Summary
-I'm a passionate game programmer with 2 years of experience in PC game programming with Unity 3D and Unreal Engine. I know C, C++ and other programming languages studied in my high school or by myself. Self-taught, honest, open minded, ready to listen to others when needed.
 
+this project has finally tested my ability to be able to work hours in a row and to be able to publish something finished and with optimized performance thanks to intelligent programming techniques.
 
+<br>
 ## #Project goals
 
-    - Building a PC game with simple and effective design
-    - Building a PC game with complex technical structure under the surface, testing my skills as a programmer
-    - 
+    - Building a PC game with simple and effective design, to test and improve my skills as designer
+    - Building a PC game with complex technical structure under the surface, to test and improve my skills as a game programmer
+    - Building a PC game as optimized as possible, putting before design, after performance and than art
 
-My goal was a game that would allow me to demonstrate my programming and also game design skills. To do so I knew my game couldn't be an OpenWorld or an- in FPS.  In short, I couldn't make the game that a Triple A studio can make in months -.
-
-
-
+<br>
 ## #Specifications
-- Jump Jump, July 2023
 
-
+    2 weeks ( 5h / day )
+    Parkur Game
+    Developed in Unreal Egine
+    Texures made in Quixel Mixer
+    
+<br>
 # #Game design
-- You can try my game here:
-- You can see my code here:
-- You can read more detailed information about my game & work: 
