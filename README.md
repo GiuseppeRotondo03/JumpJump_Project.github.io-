@@ -10,13 +10,20 @@ this project has finally tested my ability to be able to work hours in a row and
 
 ## #Specifications
 
-    2 weeks ( 5h / day )
-    Parkur Game
-    Developed in Unreal Egine
-    Texures made in Quixel Mixer
+    - 2 weeks ( 5h / day )
+    - Parkur Game
+    - Developed in Unreal Egine
+    - Texures made in Quixel Mixer
 
 
 
 # #Game design
-<hr>  
-for the initial idea I was inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2
+<hr>
+## #More about the game
+The game is inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2. 
+## #Unic Points
+-
+-
+
+The initial idea was something like: 
+
