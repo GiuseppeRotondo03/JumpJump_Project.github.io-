@@ -26,8 +26,25 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #Unic Points
 
-- The player decides where to go, not the game. The player creates chambers with different types of obstacles inside
-- Each chamber may contain different obstacles from the previous chamber, so the player always faces new challenges
+- The player decides where to go, not the game. The player creates rooms with different types of obstacles inside
+- Each room may contain different obstacles from the previous room, so the player always faces new challenges
 - The player evaluates whether or not to take debuffs to obtain other advantages such as a better position to jump
 
+## #Rooms and obstacles
+
+type 1
+type 2
+type 3
+type 4
+type 5
+
+## #movement
+
+Unreal Engine m
+my new movement 1
+my new movement 2
+
+## #debuff
+
+## #score and quest
 
