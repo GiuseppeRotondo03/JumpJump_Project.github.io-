@@ -5,13 +5,13 @@ this project has finally tested my ability to be able to work hours in a row and
 ## #Specifications
 
     - 2 weeks ( 5h / day )
-    - Parkur Game
+    - Unique Parkur Game
     - Developed in Unreal Egine
     - Texures made in Quixel Mixer
 
 ## #Project goals
 
-- Building a PC game with Unic gameplay
+- Building a PC game with unique gameplay
 - Building a PC game with simple and effective design, to test and improve my skills as designer
 - Building a PC game with complex technical structure under the surface, to test and improve my skills as a game programmer
 - Building a PC game as optimized as possible, putting before design, after performance and than art
