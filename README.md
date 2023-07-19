@@ -4,7 +4,7 @@ this project has finally tested my ability to be able to work hours in a row and
 
 ## #Project goals
 
-- Building a PC game with unique gameplay
+- Building a PC game with *unique* gameplay
 - Building a PC game with simple and effective design, to test and improve my skills as designer
 - Building a PC game with complex technical structure under the surface, to test and improve my skills as a game programmer
 - Building a PC game as optimized as possible, putting before design, after performance and than art
@@ -27,13 +27,13 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #Unique Points
 
-- The player decides where to go, not the game. The player creates rooms with different types of obstacles inside
+- The *player decides* where to go, not the game. The player creates rooms with different types of obstacles inside
 - Each room may contain different obstacles from the previous room, so the player always faces new challenges
 - The player evaluates whether or not to take debuffs to obtain other advantages such as a better position to jump
 
 ## #Rooms and obstacles
-
-- type 1
+*** video ***
+This Room contains a series of platforms that slowly descend one after another. The player's aim is to be able to climb and reach the top (each platform has a waiting timer that increases based on its own ID. In this way they don't all descend together but sequentially).
 - type 2
 - type 3
 - type 4
@@ -45,7 +45,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - my new movement 1
 - my new movement 2
 
-## #The issues and how i fixed it
+## #The issues and how i fixed they
 
 ## #debuff
 
