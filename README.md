@@ -37,8 +37,8 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 <hr>
 ## #Rooms and obstacles
 *** video ***
-This Room contains a series of platforms that slowly descend one after another. The player's aim is to be able to climb and reach the top (each platform has a waiting timer that increases based on its own ID. In this way they don't all descend together but sequentially).
-- type 2
+- This Room contains a series of platforms that slowly descend one after another. The player's aim is to be able to climb and reach the top (each platform has a waiting timer that increases based on its own ID. In this way they don't all descend together but sequentially).
+- This Room contains a number of pillars. The pillars are standing still and the player aims to climb high to have an advantage in the next Room.
 - type 3
 - type 4
 - type 5
