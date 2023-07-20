@@ -56,8 +56,10 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - **Image here**
 - This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
 
-## #The issues and how i fixed they
-
 ## #debuff
 
-## #score and quest
+## #The issues and how i fixed they
+
+### #Extra Jump
+
+### #score and quest
