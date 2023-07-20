@@ -49,9 +49,12 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #movement
 
-- Unreal Engine m
-- my new movement 1
-- my new movement 2
+- **Image here**
+- I wanted to make a custom movement system that allowed for more accurate jumping on platforms. This required tweaking how fast the character falls when jumping and allowing the player to have a better experience.
+- **Image here**
+- This first movement is activated when the player enters a "Wall Jump" room and allows the player to be lighter and faster, helping him to reach distant obstacles. (Disabled when the player exits the room)
+- **Image here**
+- This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
 
 ## #The issues and how i fixed they
 
