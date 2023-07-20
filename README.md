@@ -57,6 +57,15 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
 
 ## #debuff
+The debuffs that are applied when the player picks up an EM are:
+- **video**
+- The player starts sliding, thanks to the change of friction with the ground. This increases the difficulty of the player who has to jump continuously to get back on the platform and not fall.
+- **video**
+- After 0.5 seconds, the gravity starts changing every 1-2.5 seconds randomly (min 0.6, max 2.1) forcing the player to have to wait and take a small break or risk and have to constantly adapt to a new movement. (By picking up an apple in flight, the gravity could increase and the player could fall. Those 0.5 seconds of waiting are an advantage and a way to avoid making the player die and create too much frustration).
+- **video**
+- The player loses one HP.
+
+The Debuffs are designed in such a way that, if the player manages to use his knowledge and his skill, the level does not end but only increases its difficulty for a few moments. EM is a real enemy and should be avoided. The player must constantly think about whether to choose a path even if it will lead him to encounter a debuff.
 
 # #Problems and how I solved
 
