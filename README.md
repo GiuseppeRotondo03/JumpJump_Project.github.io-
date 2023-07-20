@@ -48,7 +48,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - *** video ***
 - When the player touches the wall, the number of possible jumps is increased to 5. This way he can wall jump without abusing it. Here too he must learn to manage them. After he stops touching one of the walls they wait 0.3 seconds and the number of max jumps goes back to 2 (it doesn't make sense in theory, but this way the feeling of the movement is better - whatch with and without delay of 0.3s -). 
 
-## #movement
+## #Movement
 <hr>
 - **Image here**
 - I wanted to make a custom movement system that allowed for more accurate jumping on platforms. This required tweaking how fast the character falls when jumping and allowing the player to have a better experience.
@@ -72,7 +72,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - The player loses one HP.
 
 <hr>
-### #Note
+#### #Note
 The Debuffs are designed in such a way that, if the player manages to use his knowledge and his skill, the level does not end but only increases its difficulty for a few moments.
 
 # #Problems and how I solved
