@@ -31,7 +31,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - The *player decides* where to go, not the game. The player creates rooms with different types of obstacles inside
 - Each room may contain different obstacles from the previous room, so the player always faces new challenges
 - The player evaluates whether or not to take debuffs to obtain other advantages such as a better position to jump
-  
+- *** video of graybox and empty rooms (Alpha) ***
 # #Game design Details
 
 <hr>
@@ -43,9 +43,9 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - *** video ***
 - When the player touches the platforms of this Room, after 0.3 seconds he is thrown up. The goal is to reach the top pillar and take a short break before continuing to the next level. It is difficult because to get a good result the player has to jump almost at the same time as the impulse is given. (If the impulse were applied immediately he could not make the jump, because he would never touch a solid surface due to the box collider)
 - *** video ***
-- type 4
+- When the player enters this level, his gun stops working for 5 seconds. In this reason he is forced to jump on platforms that are destroyed when touched. The player's goal is not to finish the platforms before the gun reactivates.
 - *** video ***
-- type 5
+- When the player touches the wall, the number of possible jumps is increased to 5. This way he can wall jump without abusing it. Here too he must learn to manage them. After he stops touching one of the walls they wait 0.3 seconds and the number of max jumps goes back to 2 (it doesn't make sense in theory, but this way the feeling of the movement is better - whatch with and without delay of 0.3s -). 
 
 ## #movement
 
