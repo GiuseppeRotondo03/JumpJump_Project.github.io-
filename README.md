@@ -58,8 +58,8 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #debuff
 
-## #Problems and how I solved
+# #Problems and how I solved
 
-### #Extra Jump
+## #Extra Jump
 
-### #score and quest
+## #score and quest
