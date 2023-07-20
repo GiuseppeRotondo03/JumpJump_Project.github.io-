@@ -58,7 +58,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #debuff
 
-## #The issues and how i fixed they
+## #Problems and how I solved
 
 ### #Extra Jump
 
