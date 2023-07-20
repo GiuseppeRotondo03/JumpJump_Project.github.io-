@@ -32,10 +32,11 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - Each room may contain different obstacles from the previous room, so the player always faces new challenges
 - The player evaluates whether or not to take debuffs to obtain other advantages such as a better position to jump
 - *** video of graybox and empty rooms (Alpha) ***
+  
 # #Game design Details
 
-<hr>
 ## #Rooms and obstacles
+<hr>
 - *** video ***
 - This Room contains a series of platforms that slowly descend one after another. The player's aim is to be able to climb and reach the top (each platform has a waiting timer that increases based on its own ID. In this way they don't all descend together but sequentially).
 - *** video ***
