@@ -58,11 +58,12 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
 
 ## #Debuff
-- Debuffs are applied only when the player picks up an EM.
+<hr>
 - **Image**
+- Debuffs are applied only when the player picks up an EM.
 - EM is a real enemy and should be avoided. The player must constantly think about whether to choose a path even if it will lead him to encounter a debuff.
 <hr>
-- All 3 possible effects:
+All 3 possible effects:
 - **video**
 - The player starts sliding, thanks to the change of friction with the ground. This increases the difficulty of the player who has to jump continuously to get back on the platform and not fall.
 - **video**
