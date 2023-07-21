@@ -63,7 +63,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 ## #Debuff
 <hr>
 - **Image**
-- Debuffs are applied only when the player picks up an EM.
+- Mele and EvilMele (EM) are scattered around the map. Debuffs are applied only when the player picks up an EM.
 - EM is a real enemy and should be avoided. The player must constantly think about whether to choose a path even if it will lead him to encounter a debuff.
 <hr>
 All 3 possible effects:
@@ -82,9 +82,8 @@ All 3 possible effects:
 Within levels, obstacles spawn randomly. this means that there is a very rare chance that they will all spawn in a corner making it impossible for the player to continue.
 
 - This could have been fixed with an extra jump to reach distant locations
-- Every time the player collects 5 he gets a life which he can trade for extra jumps. In questo modo viene evitato l'abuso del triplo salto.
-- Questa abilità va utilizzata in combo ad un salto, subito dopo. Il player non può salvarsi all'ultimo, ma deve pensarci prima di saltare.
-
+- Every time the player collects 5 "Mele" he gets a HP that he can trade for extra jumps. This way the abuse of the triple jump is avoided.
+- This skill must be used in a one jump combo, immediately afterwards. The player cannot save himself at the last minute, but must think about it before jumping.
 ## #score and quest
 <hr>
 **Img**
