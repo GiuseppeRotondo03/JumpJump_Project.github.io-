@@ -75,5 +75,12 @@ All 3 possible effects:
 # #Problems and how I solved
 
 ## #Extra Jump
+<hr>
+Within levels, obstacles spawn randomly. this means that there is a very rare chance that they will all spawn in a corner making it impossible for the player to continue.
+
+- This could have been fixed with an extra jump but the player would have spammed it making the game too easy.
+- Every time the player collects 5 he gets a life which he can trade for extra jumps. This way the abuse of the triple jump is avoided.
+- And to make it more difficult - not complex but difficult - the player must use the boost immediately after jumping and not when he is already falling. This way he needs to be able to evaluate whether or not that jump is worth using and make more sense to stay in a room more time just to collect lives.
 
 ## #score and quest
+<hr>
