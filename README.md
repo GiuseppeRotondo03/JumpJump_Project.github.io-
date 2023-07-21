@@ -78,9 +78,13 @@ All 3 possible effects:
 <hr>
 Within levels, obstacles spawn randomly. this means that there is a very rare chance that they will all spawn in a corner making it impossible for the player to continue.
 
-- This could have been fixed with an extra jump but the player would have spammed it making the game too easy.
-- Every time the player collects 5 he gets a life which he can trade for extra jumps. This way the abuse of the triple jump is avoided.
-- And to make it more difficult - not complex but difficult - the player must use the boost immediately after jumping and not when he is already falling. This way he needs to be able to evaluate whether or not that jump is worth using and make more sense to stay in a room more time just to collect lives.
+- This could have been fixed with an extra jump per raggiungere luoghi distanti
+- Every time the player collects 5 he gets a life which he can trade for extra jumps. In questo modo viene evitato l'abuso del triplo salto.
+- Questa abilità va utilizzata in combo ad un salto, subito dopo. Il player non può salvarsi all'ultimo, ma deve pensarci prima di saltare.
 
 ## #score and quest
 <hr>
+**Img**
+There is a score and record counter in the game UI. The player has two ways to increase points:
+- Collect apples, each apple awards one point
+- Reach a required position. Reaching this position you get 1000 points instantly. In this way the player is encouraged to go where the game asks, to score more points faster.
