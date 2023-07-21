@@ -13,15 +13,18 @@ This project has finally tested my ability to be able to work hours in a row and
 ## #Specifications
 
     - 2 weeks ( 5h / day )
-    - Unique Parkur Game
-    - Developed in Unreal Egine
-    - Texures made in Quixel Mixer
+    - Unique Parkour Game
+    - Developed in Unreal Engine
+    - Textures made in Quixel Mixer
 
 
 # #Game design
 <hr>
 The game is inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2. 
-I love giving the player the chance to decide and I wanted to challenge myself with new things and I hate monotony, so I realized this idea:
+- I love giving the player the chance to decide 
+- I wanted to challenge myself with new things
+- Monotony is boring
+Because of this, I realized this idea:
 
 ## #Game Idea
 The player finds himself on a hill (an island) surrounded by an infinite low land (an ocean) and must find a way to escape but if he touches the land, he dies. To avoid dying, he uses his gun to shoot and create obstacles for him to jump over with a fast and easy to control movement.
@@ -44,9 +47,9 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 - *** video ***
 - When the player touches the platforms of this Room, after 0.3 seconds he is thrown up. The goal is to reach the top pillar and take a short break before continuing to the next level. It is difficult because to get a good result the player has to jump almost at the same time as the impulse is given. (If the impulse were applied immediately he could not make the jump, because he would never touch a solid surface due to the box collider)
 - *** video ***
-- When the player enters this level, his gun stops working for 5 seconds. In this reason he is forced to jump on platforms that are destroyed when touched. The player's goal is not to finish the platforms before the gun reactivates.
+- When the player enters this level, his gun stops working for 5 seconds. For this reason he is forced to jump on platforms that are destroyed when touched. The player's goal is not to finish the platforms before the gun reactivates.
 - *** video ***
-- When the player touches the wall, the number of possible jumps is increased to 5. This way he can wall jump without abusing it. Here too he must learn to manage them. After he stops touching one of the walls they wait 0.3 seconds and the number of max jumps goes back to 2 (it doesn't make sense in theory, but this way the feeling of the movement is better - whatch with and without delay of 0.3s -). 
+- When the player touches the wall, the number of possible jumps is increased to 5. This way he can wall jump without abusing it. Here he must learn how to manage them, too. After he stops touching one of the walls they wait 0.3 seconds and the number of max jumps goes back to 2 (it doesn't make sense in theory, but this way the feeling of the movement is better - whatch with and without delay of 0.3s -). 
 
 ## #Movement
 <hr>
@@ -78,7 +81,7 @@ All 3 possible effects:
 <hr>
 Within levels, obstacles spawn randomly. this means that there is a very rare chance that they will all spawn in a corner making it impossible for the player to continue.
 
-- This could have been fixed with an extra jump per raggiungere luoghi distanti
+- This could have been fixed with an extra jump to reach distant locations
 - Every time the player collects 5 he gets a life which he can trade for extra jumps. In questo modo viene evitato l'abuso del triplo salto.
 - Questa abilità va utilizzata in combo ad un salto, subito dopo. Il player non può salvarsi all'ultimo, ma deve pensarci prima di saltare.
 
