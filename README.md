@@ -92,8 +92,8 @@ There is a score and record counter in the game UI. The player has two ways to i
 - Collect apples, each apple awards one point
 - Reach a required position. Reaching this position you get 1000 points instantly. In this way the player is encouraged to go where the game asks, to score more points faster.
 
-# #What would I have done if I had more resources
+# #What would I have done
 <hr>
-I would have liked to make the game even more unique and communicate with the player more efficiently.
+ If I had more resources, I would have liked to make the game even more unique and communicate with the player more efficiently.
 - For the first point, I would have made each room take the most unique and important features of other games and have obstacles, music, sounds and art inspired by those games (Example: super mario).
 - For the second point, I would have liked better particle effects, sounds, models and textures to communicate different moods to the player.
