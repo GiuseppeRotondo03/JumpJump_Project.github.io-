@@ -36,7 +36,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #Rooms and obstacles
 <hr>
-##### The player can only jump over obstacles made of bricks, including walls.
+The player can only jump over obstacles made of bricks, including walls [More here].
 - *** video ***
 - This Room contains a series of platforms that slowly descend one after another. The player's aim is to be able to climb and reach the top (each platform has a waiting timer that increases based on its own ID. In this way they don't all descend together but sequentially).
 - *** video ***
