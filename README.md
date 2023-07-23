@@ -1,4 +1,4 @@
-![JumpJumpBanner](JumpJumpBanner2.png)
+![JumpJumpBanner](JumpJumpBanner3.png)
 <hr>
 # #Summary
 The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
