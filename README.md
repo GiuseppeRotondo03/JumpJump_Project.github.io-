@@ -3,7 +3,8 @@
 
 <hr>
 # #Summary
-The game is about a parkour game with truly unique gameplay mechanics. Watch a short video of the actual gameplay here: [Video]
+The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
+- Watch a short video of the actual gameplay here: [Video]
 
 ## #Project goals
 
@@ -23,12 +24,6 @@ The game is about a parkour game with truly unique gameplay mechanics. Watch a s
 
 # #Game design
 <hr>
-The game is inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2. 
-- I love giving the player the chance to decide 
-- I wanted to challenge myself with new things
-- Monotony is boring
-Because of this, I realized this idea:
-
 ## #Game Idea
 The player finds himself on a hill (an island) surrounded by an infinite low land (an ocean) and must find a way to escape but if he touches the land, he dies. To avoid dying, he uses his gun to shoot and create obstacles for him to jump over with a fast and easy to control movement.
 
