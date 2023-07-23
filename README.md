@@ -1,8 +1,9 @@
 ![JumpJumpBanner](JumpJumpBanner2.png)
-##### This render does not represent the final product. [This is the current state of gameplay]
+##### This render does not represent the final product.
+
 <hr>
 # #Summary
-This project has finally tested my ability of be able to work hours in a row, publish something finished, and respond to feedback from beta testers.
+The game is about a parkour game with truly unique gameplay mechanics. Watch a short video of the actual gameplay here: [Video]
 
 ## #Project goals
 
@@ -95,6 +96,7 @@ There is a score and record counter in the game UI. The player has two ways to i
 
 # #What would I have done
 <hr>
- If I had more resources, I would have liked to make the game even more unique and communicate with the player more efficiently.
+This project has finally tested my ability of be able to work hours in a row, publish something finished, and respond to feedback from beta testers.
+If I had more resources, I would have liked to make the game even more unique and communicate with the player more efficiently.
 - For the first point, I would have made each room take the most unique and important features of other games and have obstacles, music, sounds and art inspired by those games (Example: super mario).
 - For the second point, I would have liked better particle effects, sounds, models and textures to communicate different moods to the player.
