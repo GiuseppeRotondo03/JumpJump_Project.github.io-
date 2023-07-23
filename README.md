@@ -6,6 +6,7 @@ The game is about a parkour game with truly unique gameplay mechanics and it's i
 
 ## #Project goals
 
+
 - Building a PC game with *unique* gameplay
 - Building a PC game with simple and effective design, to test and improve my skills as designer
 - Building a PC game with complex technical structure under the surface, to test and improve my skills as a game programmer
