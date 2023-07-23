@@ -36,7 +36,7 @@ The player finds himself on a hill (an island) surrounded by an infinite low lan
 
 ## #Rooms and obstacles
 <hr>
-The player can only jump over obstacles made of bricks, including walls [More here].
+The player can only jump over obstacles made of bricks, including walls.
 - *** video ***
 - This Room contains a series of platforms that slowly descend one after another. The player's aim is to be able to climb and reach the top (each platform has a waiting timer that increases based on its own ID. In this way they don't all descend together but sequentially).
 - *** video ***
@@ -59,7 +59,6 @@ The player can only jump over obstacles made of bricks, including walls [More he
 
 ## #Debuff
 ![JumpJumpBanner](/Assets/M_img.png)
-- **Image**
 - Mele and EvilMele (EM) are scattered around the map. Debuffs are applied only when the player picks up an EM.
 - EM is a real enemy and should be avoided. The player must constantly think about whether to choose a path even if it will lead him to encounter a debuff.
 <hr>
