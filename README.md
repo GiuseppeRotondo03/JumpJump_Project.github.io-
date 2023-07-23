@@ -2,7 +2,7 @@
 ##### This render does not represent the final product. [This is the current state of gameplay]
 # #Summary
 <hr>
-This project has finally tested my ability to be able to work hours in a row and to be able to publish something finished and with optimized performance thanks to better programming techniques.
+This project has finally tested my ability of be able to work hours in a row, publish something finished, and respond to feedback from beta testers.
 
 ## #Project goals
 
