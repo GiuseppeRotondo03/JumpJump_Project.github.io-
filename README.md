@@ -73,9 +73,10 @@ All 3 possible effects:
 
 # #Problems and how I solved
 
+
 ## #Extra Jump
-<hr>
 ![M](/Assets/E_img.png)
+<hr>
 Within levels, obstacles spawn randomly. this means that there is a very rare chance that they will all spawn in a corner making it impossible for the player to continue.
 
 - This could have been fixed with an extra jump to reach distant locations
