@@ -58,7 +58,7 @@ The player can only jump over obstacles made of bricks, including walls.
 - This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
 
 ## #Debuff
-![JumpJumpBanner](/Assets/M_img.png)
+![EM](/Assets/EM_img.png)
 - Mele and EvilMele (EM) are scattered around the map. Debuffs are applied only when the player picks up an EM.
 - EM is a real enemy and should be avoided. The player must constantly think about whether to choose a path even if it will lead him to encounter a debuff.
 <hr>
@@ -75,6 +75,7 @@ All 3 possible effects:
 
 ## #Extra Jump
 <hr>
+![M](/Assets/E_img.png)
 Within levels, obstacles spawn randomly. this means that there is a very rare chance that they will all spawn in a corner making it impossible for the player to continue.
 
 - This could have been fixed with an extra jump to reach distant locations
