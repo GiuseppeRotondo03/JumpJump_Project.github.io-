@@ -1,5 +1,5 @@
 ![JumpJumpBanner](JumpJumpBanner2.png)
-##### #Note: This render does not represent the final product
+##### This render does not represent the final product. [This is the current state of gameplay]
 # #Summary
 <hr>
 This project has finally tested my ability to be able to work hours in a row and to be able to publish something finished and with optimized performance thanks to better programming techniques.
