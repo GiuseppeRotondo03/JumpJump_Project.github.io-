@@ -75,7 +75,7 @@ All 3 possible effects:
 
 
 ## #Extra Jump
-![M](/Assets/E_img.png)
+![M](/Assets/M_img.png)
 <hr>
 Within levels, obstacles spawn randomly. this means that there is a very rare chance that they will all spawn in a corner making it impossible for the player to continue.
 
