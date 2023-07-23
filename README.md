@@ -74,7 +74,6 @@ All 3 possible effects:
 
 # #Problems and how I solved
 
-
 ## #Extra Jump
 ![M](/Assets/M_img.png)
 <hr>
