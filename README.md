@@ -19,6 +19,7 @@ The game is about a parkour game with truly unique gameplay mechanics and it's i
     - Unique Parkour Game
     - Developed in Unreal Engine
     - Textures made in Quixel Mixer
+    - Tagert: 16 - 22 yo
 
 
 # #Game design
