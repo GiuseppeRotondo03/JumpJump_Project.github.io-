@@ -89,6 +89,7 @@ There is a score and record counter in the game UI. The player has two ways to i
 - Reach a required position. Reaching this position you get 1000 points instantly. In this way the player is encouraged to go where the game asks, to score more points faster.
 
 # #Feedback from Beta Testers and fix
+<hr>
 After adjusting the final details of the game, I looked for people who could try it as "beta testers".
 Note: beta testers were people who met the requirements (16 - 20 years old, minecraft player).
 
