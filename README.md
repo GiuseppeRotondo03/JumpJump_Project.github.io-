@@ -16,7 +16,7 @@ The game is about a parkour game with truly unique gameplay mechanics and it's i
     - Unique Parkour Game
     - Developed in Unreal Engine
     - Textures made in Quixel Mixer
-    - Tagert: 16 - 22 yo
+    - Tagert: 16 - 22 yo, Minecraft parkour player
 
 
 # #Game design
@@ -88,3 +88,10 @@ There is a score and record counter in the game UI. The player has two ways to i
 - Collect apples, each apple awards one point
 - Reach a required position. Reaching this position you get 1000 points instantly. In this way the player is encouraged to go where the game asks, to score more points faster.
 
+# #After adjusting the final details of the game, I looked for people who could try it as "beta testers".
+Note: beta testers were people who met the requirements (16 - 20 years old, minecraft player).
+
+- Debuffs and buffs had a problem: they were too many and too big. I fixed it by halving their size and adding a 50% chance to self destruct once they spawn.
+- Graphics were too high to run on low level PCs. I then set the graphics to "Unreal Engine Default - Medium" quality. I also thought about adding a menu to change the quality independently (this last one is yet to be added).
+- Different colored walls made it difficult for one player to know where to go. For many it was quite easy to understand, so I included the explanation in the tutorial, as once you understand the concept it's hard to go wrong. I also thought of adding the possibility to activate or deactivate the walls of different colors, in such a way to have walls with the same texture (this last one is yet to be added).
+- I have named the most relevant events here, if you want a complete list, please ask me!
