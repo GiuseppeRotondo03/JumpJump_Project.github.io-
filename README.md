@@ -1,5 +1,3 @@
-![JumpJumpBanner](JumpJumpBanner3.png)
-<hr>
 # #Summary
 The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
 
@@ -51,7 +49,6 @@ The player can only jump over obstacles made of bricks, including walls.
 
 ## #Movement
 <hr>
-
 
 I wanted to make a custom movement system that allowed for more accurate jumping on platforms. This required tweaking how fast the character falls when jumping and allowing the player to have a better experience.
 ![M_Def](/Assets/MovementScreen_1.png)
