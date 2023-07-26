@@ -60,6 +60,8 @@ This second movement is turned on by default and features higher gravity and jum
 <hr>
 
 ## #Debuff
+<hr>
+
 ![EM](/Assets/EM_img.png)
 - Mele and EvilMele (EM) are scattered around the map. Debuffs are applied only when the player picks up an EM.
 - EM is a real enemy and should be avoided. The player must constantly think about whether to choose a path even if it will lead him to encounter a debuff.
