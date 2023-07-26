@@ -88,7 +88,7 @@ There is a score and record counter in the game UI. The player has two ways to i
 - Collect apples, each apple awards one point
 - Reach a required position. Reaching this position you get 1000 points instantly. In this way the player is encouraged to go where the game asks, to score more points faster.
 
-# #Fix after a quick beta testing
+## #Fix after a quick beta testing
 <hr>
 After adjusting the final details of the game, I looked for people who could try it as "beta testers".
 Note: beta testers were people who met the requirements (16 - 20 years old, minecraft player).
