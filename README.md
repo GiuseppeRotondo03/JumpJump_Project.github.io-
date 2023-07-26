@@ -96,4 +96,4 @@ Note: beta testers were people who met the requirements (16 - 20 years old, mine
 - Debuffs and buffs had a problem: they were too many and too big. I fixed it by halving their size and adding a 50% chance to self destruct once they spawn.
 - Graphics were too high to run on low level PCs. I then set the graphics to "Unreal Engine Default - Medium" quality. I also thought about adding a menu to change the quality independently (this last one is yet to be added).
 - Different colored walls made it difficult for one player to know where to go. For many it was quite easy to understand, so I included the explanation in the tutorial, as once you understand the concept it's hard to go wrong. I also thought of adding the possibility to activate or deactivate the walls of different colors, in such a way to have walls with the same texture (this last one is yet to be added).
-- I have named the most relevant events here, if you want a complete list, please ask me!
+- I have named the most relevant here, if you want a complete list, please ask me!
