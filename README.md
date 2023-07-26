@@ -99,5 +99,5 @@ Note: beta testers were people who met the requirements (16 - 20 years old, mine
 - I have named the most relevant here, if you want a complete list, please ask me!
 
 <hr>
-#### #A little spicy: Alpha test footage
-[ClickHere]()
+### #A little spicy
+Alpha test footage: [ClickHere]()
