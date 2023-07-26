@@ -2,7 +2,6 @@
 <hr>
 # #Summary
 The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
-- Watch a short video of the actual gameplay here: [Video]
 
 ## #Project goals
 
@@ -85,7 +84,7 @@ Within levels, obstacles spawn randomly. this means that there is a very rare ch
 - This skill must be used in a one jump combo, immediately afterwards. The player cannot save himself at the last minute, but must think about it before jumping.
 ## #score and quest
 <hr>
-**Img**
+**Img** v
 There is a score and record counter in the game UI. The player has two ways to increase points:
 - Collect apples, each apple awards one point
 - Reach a required position. Reaching this position you get 1000 points instantly. In this way the player is encouraged to go where the game asks, to score more points faster.
