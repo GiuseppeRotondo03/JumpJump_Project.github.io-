@@ -57,8 +57,9 @@ This first movement is activated when the player enters a "Wall Jump" room and a
 This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
 ![M_WallJump](/Assets/MovementScreen_2.png)
 
-## #Debuff
 <hr>
+
+## #Debuff
 
 ![EM](/Assets/EM_img.png)
 - Mele and EvilMele (EM) are scattered around the map. Debuffs are applied only when the player picks up an EM.
