@@ -98,6 +98,7 @@ There is a score and record counter in the game UI. The player has two ways to i
 After adjusting the final details of the game, I looked for people who could try it as "beta testers".
 Note: beta testers were people who met the requirements (16 - 20 years old, minecraft player).
 
+- Every player has a different mouse sensitivity, so I added a whole new UI to change mouse sensitivity in game.
 - Debuffs and buffs were too many and too big. I fixed it by halving their size and adding a 50% chance to self destruct once they spawn.
 - Different colored walls made it difficult for one player to know where to go. For many it was quite easy to understand, so I included the explanation in the tutorial, as once you understand the concept it's hard to go wrong. I also thought of adding the possibility of turn off textures of different colors(this last one is yet to be added).
 - Graphics were too high to run on low level PCs. I then set the graphics to "Unreal Engine Default - Medium" quality as default and thought about adding a menu to change the quality independently (this last one is yet to be added).
