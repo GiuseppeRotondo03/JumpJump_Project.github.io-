@@ -53,11 +53,11 @@ The player can only jump over obstacles made of bricks, including walls.
 <hr>
 
 ![M_Def](/Assets/MovementScreen_1.png)
-- I wanted to make a custom movement system that allowed for more accurate jumping on platforms. This required tweaking how fast the character falls when jumping and allowing the player to have a better experience.
+I wanted to make a custom movement system that allowed for more accurate jumping on platforms. This required tweaking how fast the character falls when jumping and allowing the player to have a better experience.
 ![M_WallJump](/Assets/MovementScreen_3.png)
-- This first movement is activated when the player enters a "Wall Jump" room and allows the player to be lighter and faster, helping him to reach distant obstacles. (Disabled when the player exits the room)
+This first movement is activated when the player enters a "Wall Jump" room and allows the player to be lighter and faster, helping him to reach distant obstacles. (Disabled when the player exits the room)
 ![M_WallJump](/Assets/MovementScreen_2.png)
-- This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
+This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
 
 ## #Debuff
 ![EM](/Assets/EM_img.png)
@@ -85,7 +85,7 @@ Within levels, obstacles spawn randomly. this means that there is a very rare ch
 - This skill must be used in a one jump combo, immediately afterwards. The player cannot save himself at the last minute, but must think about it before jumping.
 ## #score and quest
 <hr>
-**Img** v
+![M_Def](/Assets/ScoreScreen.png)
 There is a score and record counter in the game UI. The player has two ways to increase points:
 - Collect apples, each apple awards one point
 - Reach a required position. Reaching this position you get 1000 points instantly. In this way the player is encouraged to go where the game asks, to score more points faster.
