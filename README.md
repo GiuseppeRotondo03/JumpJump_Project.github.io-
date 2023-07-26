@@ -57,8 +57,6 @@ This first movement is activated when the player enters a "Wall Jump" room and a
 This second movement is turned on by default and features higher gravity and jumps. This way the player is more accurate and can't cross half the room and jump over all the obstacles.
 ![M_WallJump](/Assets/MovementScreen_2.png)
 
-<hr>
-
 ## #Debuff
 <hr>
 
