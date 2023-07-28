@@ -1,5 +1,6 @@
 # #Summary
 The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
+- [1 minute of Gameplay](https://youtu.be/tAaQr4a0KZU)
 - [30 minutes after downloading jump jump - video sent by a beta tester](https://youtu.be/Y-nhzk6zQLI)
 
 ## #Project goals
