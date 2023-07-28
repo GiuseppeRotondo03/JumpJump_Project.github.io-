@@ -1,5 +1,6 @@
 # #Summary
 The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
+[30 minutes after downloading jump jump - video sent by a beta tester](https://youtu.be/Y-nhzk6zQLI)
 
 ## #Project goals
 
@@ -50,6 +51,7 @@ The player can only jump over obstacles made of bricks, including walls.
 ## #Movement
 <hr>
 
+[Movement - Alpha test](https://youtu.be/-iffBPt68O0)
 I wanted to make a custom movement system that allowed for more accurate jumping on platforms. This required tweaking how fast the character falls when jumping and allowing the player to have a better experience.
 ![M_Def](/Assets/MovementScreen_1.png)
 This first movement is activated when the player enters a "Wall Jump" room and allows the player to be lighter and faster, helping him to reach distant obstacles. (Disabled when the player exits the room)
@@ -67,12 +69,11 @@ This second movement is turned on by default and features higher gravity and jum
 - Mele and EvilMele (EM) are scattered around the map. Debuffs are applied only when the player picks up an EM.
 - EM is a real enemy and should be avoided. The player must constantly think about whether to choose a path even if it will lead him to encounter a debuff.
 <hr>
+
+[Debuffs video here](https://youtu.be/UihloKcqq-Y)
 All 3 possible effects:
-- **video**
 - The player starts sliding, thanks to the change of friction with the ground. This increases the difficulty of the player who has to jump continuously to get back on the platform and not fall.
-- **video**
 - After 0.5 seconds, the gravity starts changing every 1-2.5 seconds randomly (min 0.6, max 2.1) forcing the player to have to wait and take a small break or risk and have to constantly adapt to a new movement. (By picking up an apple in flight, the gravity could increase and the player could fall. Those 0.5 seconds of waiting are an advantage and a way to avoid making the player die and create too much frustration).
-- **video**
 - The player loses one HP.
 
 
