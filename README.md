@@ -1,6 +1,6 @@
 # #Summary
 The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
-[30 minutes after downloading jump jump - video sent by a beta tester](https://youtu.be/Y-nhzk6zQLI)
+- [30 minutes after downloading jump jump - video sent by a beta tester](https://youtu.be/Y-nhzk6zQLI)
 
 ## #Project goals
 
@@ -70,8 +70,8 @@ This second movement is turned on by default and features higher gravity and jum
 - EM is a real enemy and should be avoided. The player must constantly think about whether to choose a path even if it will lead him to encounter a debuff.
 <hr>
 
-[Debuffs video here](https://youtu.be/UihloKcqq-Y)
 All 3 possible effects:
+- [Debuffs video here](https://youtu.be/UihloKcqq-Y)
 - The player starts sliding, thanks to the change of friction with the ground. This increases the difficulty of the player who has to jump continuously to get back on the platform and not fall.
 - After 0.5 seconds, the gravity starts changing every 1-2.5 seconds randomly (min 0.6, max 2.1) forcing the player to have to wait and take a small break or risk and have to constantly adapt to a new movement. (By picking up an apple in flight, the gravity could increase and the player could fall. Those 0.5 seconds of waiting are an advantage and a way to avoid making the player die and create too much frustration).
 - The player loses one HP.
