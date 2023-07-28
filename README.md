@@ -51,7 +51,7 @@ The player can only jump over obstacles made of bricks, including walls.
 ## #Movement
 <hr>
 
-[Movement - Alpha test](https://youtu.be/-iffBPt68O0)
+- [Movement - Alpha test](https://youtu.be/-iffBPt68O0)
 I wanted to make a custom movement system that allowed for more accurate jumping on platforms. This required tweaking how fast the character falls when jumping and allowing the player to have a better experience.
 ![M_Def](/Assets/MovementScreen_1.png)
 This first movement is activated when the player enters a "Wall Jump" room and allows the player to be lighter and faster, helping him to reach distant obstacles. (Disabled when the player exits the room)
