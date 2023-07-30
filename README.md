@@ -1,10 +1,9 @@
 # #Summary
 The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
 - 1 minute of Gameplay: [click here](https://youtu.be/PvDKkf-1XQo)
-- Read about game design here: [click here](https://giusepperotondo03.github.io/JumpJump_Project.github.io-/)
 - Try my game here: [click here](https://giusepperotondo.itch.io/jump-jump)
 - See the game code here: [click here](https://giusepperotondo03.github.io/JumpJumpCode.Github.io/)
-- [30 minutes after downloading jump jump - video sent by a beta tester(v1.0)](https://youtu.be/Y-nhzk6zQLI)
+- 30 minutes after downloading jump jump [video sent by a beta tester(v1.0)](https://youtu.be/Y-nhzk6zQLI)
 
 ## #Project goals
 
