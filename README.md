@@ -1,7 +1,7 @@
 # #Summary
 The game is about a parkour game with truly unique gameplay mechanics and it's inspired by games I played when I was younger like Minecraft Parkour, Crash Bandicoot and a little bit of titan fall 2.
-- [1 minute of Gameplay](https://youtu.be/tAaQr4a0KZU)
-- [30 minutes after downloading jump jump - video sent by a beta tester](https://youtu.be/Y-nhzk6zQLI)
+- [1 minute of Gameplay (v2.3)](https://youtu.be/tAaQr4a0KZU)
+- [30 minutes after downloading jump jump - video sent by a beta tester(v1.0)](https://youtu.be/Y-nhzk6zQLI)
 
 ## #Project goals
 
@@ -93,8 +93,14 @@ There is a score and record counter in the game UI. The player has two ways to i
 After adjusting the final details of the game, I looked for people who could try it as "beta testers".
 Note: beta testers were people who met the requirements (16 - 20 years old, minecraft player).
 
-- Every player has a different mouse sensitivity, so I added a whole new UI to change mouse sensitivity in game.
+- During the beta tests hardly anyone tried to reach the coordinates, because it was too difficult to figure out where to go. I solved the problem by adding an arrow on the feet indicating where to go
 - Debuffs and buffs were too many and too big. I fixed it by halving their size and adding a 50% chance to self destruct once they spawn.
-- Different colored walls made it difficult for one player to know where to go. For many it was quite easy to understand, so I included the explanation in the tutorial, as once you understand the concept it's hard to go wrong. I also thought of adding the possibility of turn off textures of different colors(this last one has to be added).
-- Graphics were too high to run on low level PCs. I then set the graphics to "Unreal Engine Default - Medium" quality as default and thought about adding a menu to change the quality independently (this has to be added).
-- I have named the most relevant here, if you want a complete list, please ask me!
+- Every player has a different mouse sensitivity and PC performance, so I added a whole new UI to change mouse sensitivity and graphics quality in game
+- Different colored walls made it difficult for one player to know where to go. For many it was quite easy to understand, so I included the explanation in the tutorial, as once you understand the concept it's hard to go wrong. I also thought of adding the possibility of turn off textures of different colors(this last one has to be added)
+- In total I fixed about 20 bugs after beta testing
+
+# #Conclusion 
+
+Regardless of the final result, this project has made me grow as a programmer, designer, and person. I learned a lot of new blueprint nodes, but also how to avoid burnout from overwork, and above all Finish a project started by tackling the hundreds of difficulties step by step.
+- If I had a team with me, I would have liked to receive feedback on my solutions, and make a game that communicated more strongly with the player thanks to the help of sounds and art.
+- The ultimate goal would have been for each room/osacle to have an artistic connection to other games.
