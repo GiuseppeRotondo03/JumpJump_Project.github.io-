@@ -9,10 +9,10 @@ The game is about a parkour game with truly unique gameplay mechanics and it's i
 
 
 - Building a PC game with *unique* gameplay
-- Building a PC game with simple and effective design, to test and improve my skills as designer
-- Building a PC game with complex technical structure under the surface, to test and improve my skills as a game programmer
-- Building a PC game as optimized as possible, putting before design, after performance and than art
 - Generate fun through challenging gameplay
+- Building a PC game with simple and effective design, to test and improve my skills as designer
+- Building a PC game as optimized as possible, putting before design, after performance and than art
+- Building a PC game with complex technical structure under the surface, to test and improve my skills with large amount of visual scrpiting code
 
 ## #Specifications
 
